@@ -189,7 +189,7 @@
             "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
             "bg" : "#ffffff"
