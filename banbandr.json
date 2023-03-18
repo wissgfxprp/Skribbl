@@ -39,73 +39,60 @@
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
     ],
-  "quizquestions" : [
-        {
-            "questions" :
-            [
-        {"question": "What was the name of the first person to walk on the moon?"},
-        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
-        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
-        {"question": "What was the name of the first American woman in space?"},
-        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
-        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
-        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
-        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
-        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
-        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
-      ],
-            "answers" :
-            [
-        {"answer": "Neil Armstrong"},
-        {"answer": "Opportunity"},
-        {"answer": "Sputnik 1"},
-        {"answer": "Sally Ride"},
-        {"answer": "Hubble Space Telescope"},
-        {"answer": "Dragon"},
-        {"answer": "New Horizons"},
-        {"answer": "Mercury-Redstone 3"},
-        {"answer": "Salyut 1"},
-        {"answer": "Columbia"}
-       ],
-            "options" :
-            [
-        {"option": "Buzz Aldrin"},
-        {"option": "Neil Armstrong"},
-        {"option": "Alan Shepard"},
-        {"option": "Yuri Gagarin"},
-        {"option": "Curiosity"},
-        {"option": "Opportunity"},
-        {"option": "Spirit"},
-        {"option": "Sputnik 1"},
-        {"option": "Explorer 1"},
-        {"option": "Telstar 1"},
-        {"option": "Kathryn Sullivan"},
-        {"option": "Sally Ride"},
-        {"option": "Christa McAuliffe"},
-        {"option": "Valentina Tereshkova"},
-        {"option": "Hubble Space Telescope"},
-        {"option": "James Webb Space Telescope"},
-        {"option": "Kepler Space Telescope"},
-        {"option": "Challenger"},
-        {"option": "Dragon"},
-        {"option": "Falcon 9"},
-        {"option": "Atlas V"},
-        {"option": "New Horizons"},
-        {"option": "Voyager 1"},
-        {"option": "Pioneer 10"},
-        {"option": "Mercury-Redstone 3"},
-        {"option": "Atlas-Agena"},
-        {"option": "Saturn V"},
-        {"option": "Salyut 1"},
-        {"option": "Mir"},
-        {"option": "Skylab"},
-        {"option": "Enterprise"},
-        {"option": "Endeavour"},
-        {"option": "Discovery"},
-        {"option": "Atlantis"}
-      ]
-        }
+  "quizquestions": [
+  {
+    "questions": [
+      {"question": "What is the capital city of Australia?"},
+      {"question": "Which planet in our solar system is known as the 'Red Planet'?"},
+      {"question": "What is the largest continent by land area?"},
+      {"question": "What is the highest mountain in Africa?"},
+      {"question": "Which US state is known as the 'Lone Star State'?"},
+      {"question": "What is the currency of Japan?"},
+      {"question": "What is the name of the famous river that flows through Egypt?"},
+      {"question": "What is the name of the first man to step on the moon?"},
+      {"question": "What is the smallest country in the world by land area?"},
+      {"question": "Which country is both in Europe and Asia?"}
     ],
+    "answers": [
+      {"answer": "Canberra"},
+      {"answer": "Mars"},
+      {"answer": "Asia"},
+      {"answer": "Mount Kilimanjaro"},
+      {"answer": "Texas"},
+      {"answer": "Yen"},
+      {"answer": "Nile"},
+      {"answer": "Neil Armstrong"},
+      {"answer": "Vatican City"},
+      {"answer": "Russia"}
+    ],
+    "options": [
+      {"option": "Melbourne"},
+      {"option": "Sydney"},
+      {"option": "Canberra"},
+      {"option": "Jupiter"},
+      {"option": "Mars"},
+      {"option": "Africa"},
+      {"option": "Asia"},
+      {"option": "Mount Everest"},
+      {"option": "Mount Kilimanjaro"},
+      {"option": "California"},
+      {"option": "New York"},
+      {"option": "Texas"},
+      {"option": "Yuan"},
+      {"option": "Yen"},
+      {"option": "Niger"},
+      {"option": "Nile"},
+      {"option": "Buzz Aldrin"},
+      {"option": "Neil Armstrong"},
+      {"option": "Monaco"},
+      {"option": "Vatican City"},
+      {"option": "Qatar"},
+      {"option": "Russia"},
+      {"option": "Turkey"},
+      {"option": "Kazakhstan"}
+    ]
+  }
+],
 
     "quizimages" : [
         {
