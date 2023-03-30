@@ -1,5 +1,6 @@
 {
-	"config": [{
+    "config" : [
+        {
 		"activate_vpn": "false",
 		"activate_force_vpn": "false",
 		"vpn_path": "https://9asso.github.io/ovpn/uk.txt",
